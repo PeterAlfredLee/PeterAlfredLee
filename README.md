@@ -6,6 +6,8 @@ I'm interested in all kinds of basic libraries, like lossless data compression, 
 
 I'm helping out maintaining [Apache Commons Compress](https://github.com/apache/commons-compress), which is an excellent Java library that deals with all kinds of compressions.
 
+I'm also working in [Apache Tika](https://github.com/apache/tika), which is a great toolkit helping you with file type detection and content extractor.
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PeterAlfredLee)
 
 ### Contact me
